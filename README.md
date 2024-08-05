@@ -7,5 +7,3 @@ QGIS翻訳
 ## Youth
 SDGsの翻訳
 JOSMのバリデーション
-
-## 
