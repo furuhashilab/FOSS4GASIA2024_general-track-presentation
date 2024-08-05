@@ -2,7 +2,8 @@
 # 日本の大学教育におけるFoss4gツールの多言語化とオープンナレッジフォームの構築
 
 ## GDAL
-QGIS翻訳
+QGISマニュアルの翻訳
+po fileを使用したGDAL翻訳
 
 ## Youth
 SDGsの翻訳
