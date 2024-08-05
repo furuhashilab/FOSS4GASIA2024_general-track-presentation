@@ -22,12 +22,11 @@ First of all, in the rapidly evolving field of geospatial technology, access to 
 
 Our approach in the course begins with understanding the functionalities of QGIS and GDAL, followed by practical exercises to familiarize participants with basic operations. This practical experience forms the foundation for translating technical documents, helping participants effectively understand the content. We use tools such as Transifex for collaborative translation efforts, ensuring consistency and accuracy across documents. However, the current complexity of registering an account on Transifex poses a challenge. To address this, we have created a Markdown-based "QGIS Documentation Japanese Translation Manual" within a GitHub repository, where students document the steps and share insights, including potential pitfalls. This helps in facilitating collaborative information sharing.
 
-The guide content follows the format of JTF’s “Translation Guidelines,” which is essential for the success of translation projects involving open data. By building an open knowledge platform using GitHub, both users and instructors can better understand the tendencies that beginners may encounter with these tools. The FAQ and other resources on this platform allow participants to easily create, edit, and publish markdown documents, helping them mentally simulate the actual working environment. Furthermore, gaining this experience helps foster a culture of open knowledge sharing within the academic community, where students can exchange the skills needed to effectively manage digital documentation.
+The content of the guide follows the format outlined by JTF’s “Translation Guidelines,” which is essential for the success of translation projects involving open data. By building an open knowledge platform using GitHub, both users and instructors can better understand the tendencies that beginners may encounter with these tools. The FAQ and other resources on this platform allow participants to easily create, edit, and publish markdown documents, helping them mentally simulate the actual working environment. Furthermore, gaining this experience helps foster a culture of open knowledge sharing within the academic community, where students can exchange the skills needed to effectively manage digital documentation.
 
-We also explore the capabilities of Sphinx, a documentation generation tool, to publish our translated materials. By leveraging Sphinx's internationalization features, we ensure that our translations maintain the quality and structure of the original documents.
+Regarding GDAL, we focus on translating .po files within GitHub.
 
 This project demonstrates that localization and open knowledge platforms can bridge the gap between technology and language, serving as a gateway to fostering geospatial literacy. We aim to share this project at the FOSS4G International Conference, contributing to the geospatial community and promoting more accessible geospatial information literacy.
-
 Second, Furuhashi Lab continues to input data into OpenStreetMap for emergency rescue efforts and as a contribution to areas without maps.
 
 Creating and providing accurate maps requires not only proper instruction but also mastery of the editing tools used. In addition, using JOSM is an efficient way to input and validate huge amounts of data in OSM without errors.
@@ -56,7 +55,7 @@ Using the example of the graphic recording at JOSM Validation, I will introduce 
 ガイド内容は、JTFの「翻訳ガイドライン」に則った形式で手順を追います。オーブンデータの翻訳において、翻訳プロジェクトの成功に不可欠です。
 このようなGitHubを利用したオープンナレッジプラットフォームを構築することで、ツール初心者が陥りやすい傾向をユーザー側も指導者側も把握できるようになります。このプラットフォームのFAQなどを一読すれば、参加者がマークダウン形式のドキュメントを作成、編集、公開し、実際の作業環境を頭でシミュレートしやすくなります。さらにこの経験を積むことは、デジタルドキュメントを効果的に管理するために必要なスキルを学生間で提供し合う、学術コミュニティ内でオープンナレッジシェアリングの文化を育みます。
 
-また、翻訳した資料を公開するために、ドキュメント生成ツールであるSphinxの機能も探ります。Sphinxの国際化機能を活用することで、翻訳が元の文書の品質と構造を維持できるようにします。
+また、GDALに関しては、GitHub内のpoファイルを翻訳しています。
 
 このプロジェクトは、多言語化とオープンナレッジプラットフォームが、技術と言語のギャップを埋め、より安易な地理空間情報リテラシー醸成への入り口としての機能をつくることにつながります。FOSS4G国際会議にて、このプロジェクトを共有し、地理空間コミュニティへの貢献を目標にしています。
 
