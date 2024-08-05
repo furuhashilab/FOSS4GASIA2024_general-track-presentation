@@ -1,4 +1,4 @@
-# FOSS4GASIA2024_generalspeaking
+# FOSS4GASIA2024_general track presentation
 # 日本の大学教育におけるFOSS4Gツールの多言語化とオープンナレッジフォームの構築
 
 ## GDAL
