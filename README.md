@@ -10,6 +10,21 @@
 * JOSMのバリデーション
 
 ## Abstract
+Title: Localization of FOSS4G Tools and Building an Open Knowledge Platform in Japanese University Education
+
+In the rapidly evolving field of geospatial technology, access to comprehensive and understandable documentation is vital for both new and experienced users. However, language barriers often limit access to valuable resources. Our project, conducted under the "Applied Geospatial Information Science III" course at Aoyama Gakuin University, aims to bridge this gap by localizing technical documents for Free and Open Source Software for Geospatial (FOSS4G) tools such as QGIS and GDAL. These tools are widely used for geospatial data manipulation, analysis, and visualization, yet much of their documentation remains predominantly in English. By translating these documents into Japanese, we aim to increase accessibility and foster a deeper understanding of geospatial technologies among Japanese-speaking users.
+
+Our approach begins with a thorough understanding of QGIS and GDAL's functionalities, followed by hands-on exercises to familiarize participants with basic operations. This practical experience serves as a foundation for translating the technical documents, allowing participants to contextualize the content effectively. We employ tools such as Transifex for collaborative translation efforts, ensuring consistency and accuracy across translated materials.
+
+The project also emphasizes the significance of open-source software communities. Participants are introduced to the collaborative nature of these communities, learning how user contributions enhance software development and maintenance. This aspect of the project not only highlights the technical skills required for translation but also the importance of community engagement in the open-source ecosystem.
+
+Additionally, our project extends beyond translation by building an open knowledge platform. Utilizing GitHub, participants create, edit, and publish markdown documents, simulating real-world collaborative environments. This experience equips them with the skills needed to manage digital documentation effectively and fosters a culture of open knowledge sharing within the academic community.
+
+We further explore the capabilities of Sphinx, a documentation generation tool, to publish our translated materials. By leveraging Sphinx's internationalization features, we ensure that our translations maintain the quality and structure of the original documents.
+
+This project demonstrates how localization and open knowledge platforms can serve as gateways to greater geospatial literacy, bridging the gap between technology and language. By presenting our findings and methodologies at this international conference, we hope to inspire similar initiatives worldwide, contributing to a more inclusive geospatial community that transcends linguistic barriers.
+
+
 Furuhashi Lab continues to input data into OpenStreetMap for emergency rescue efforts and as a contribution to areas without maps.
 
 Creating and providing accurate maps requires not only proper instruction but also mastery of the editing tools used. In addition, using JOSM is an efficient way to input and validate huge amounts of data in OSM without errors.
