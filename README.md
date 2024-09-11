@@ -52,7 +52,7 @@ Using the example of the graphic recording at JOSM Validation, I will introduce 
 
 講座でのアプローチは、まずQGISとGDALの機能を理解し、その後、参加者が基本的な操作に慣れるための実践的な演習を行います。この実践的な経験は技術文書の翻訳の基盤となり、参加者がコンテンツを効果的に理解するのを助けます。私たちはTransifexなどのツールを使用して協力翻訳を行います。この翻訳ツールを使うことで、文書の一貫性と正確性を確保しています。しかし、現状Transifexのアカウント登録方法が複雑なことが問題として挙げられます。そこで、実際に生徒が手を動かしてつまずいた箇所をGitHubに立てたリポジトリ内にMarkdown記法で、「QGIS Documentation 日本語翻訳作業マニュアル」として、注意事項など盛り込み、作業の情報共有を図っています。
 
-ガイド内容は、JTFの「翻訳ガイドライン」に則った形式で手順を追います。オーブンデータの翻訳において、翻訳プロジェクトの成功に不可欠です。
+ガイド内容は、の「翻訳ガイドライン」に則った形式で手順を追います。オーブンデータの翻訳において、翻訳プロジェクトの成功に不可欠です。
 このようなGitHubを利用したオープンナレッジプラットフォームを構築することで、ツール初心者が陥りやすい傾向をユーザー側も指導者側も把握できるようになります。このプラットフォームのFAQなどを一読すれば、参加者がマークダウン形式のドキュメントを作成、編集、公開し、実際の作業環境を頭でシミュレートしやすくなります。さらにこの経験を積むことは、デジタルドキュメントを効果的に管理するために必要なスキルを学生間で提供し合う、学術コミュニティ内でオープンナレッジシェアリングの文化を育みます。
 
 また、GDALに関しては、GitHub内のpoファイルを翻訳しています。
@@ -82,7 +82,7 @@ The manual begins by explaining the importance of QGIS's internationalization ef
 
 A key feature of the guide is its emphasis on collaboration through GitHub. By leveraging GitHub, participants can document their work, share insights, and address common issues encountered during translation. The GitHub repository serves as an open knowledge platform, encouraging participants to engage in discussions, post FAQs, and create markdown documents that simulate real-world collaboration. This environment helps both beginners and experienced users alike to enhance their skills, providing a hands-on learning experience that goes beyond traditional classroom instruction.
 
-The manual also follows the JTF’s “Translation Guidelines,” ensuring that the translation efforts meet professional standards, particularly when dealing with open data. It breaks down the specific steps involved in translating QGIS documentation, including how to navigate po files within GitHub, a critical component for managing translations in GDAL. The guide also provides troubleshooting tips and common solutions, helping users maintain consistency and accuracy across all translated materials.
+The manual also follows the Japan Translation Federation(JTF)’s “Translation Guidelines,” ensuring that the translation efforts meet professional standards, particularly when dealing with open data. It breaks down the specific steps involved in translating QGIS documentation, including how to navigate po files within GitHub, a critical component for managing translations in GDAL. The guide also provides troubleshooting tips and common solutions, helping users maintain consistency and accuracy across all translated materials.
 
 Furthermore, the manual explores the use of Sphinx, a documentation generation tool, which helps in publishing the translated documents while maintaining their original structure and quality. The Sphinx internationalization features are particularly highlighted, demonstrating how translated content can be managed effectively within a professional framework.
 
