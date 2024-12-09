@@ -1,5 +1,5 @@
-# FOSS4GASIA2024_general track presentation
-# 日本の大学教育におけるFOSS4Gツールの多言語化とオープンナレッジ・プラットフォームの構築
+# Localization of FOSS4G Tools and Building an Open Knowledge Platform in Japanese University Education
+日本の大学教育におけるFOSS4Gツールの多言語化とオープンナレッジ・プラットフォームの構築
 
 ## GDAL
 * QGISマニュアルの翻訳
@@ -10,8 +10,6 @@
 * JOSMのバリデーション
 
 ## Abstract
-Title: Localization of FOSS4G Tools and Building an Open Knowledge Platform in Japanese University Education
-
 Furuhashi Lab has been working on OSM mapping and Mapathon as YouthMappers AGU under the theme of "Participatory Mapping and Social Contribution". Here is a look back at our specific activities in 2024. Three months from March to June, we participated in the OSM Validation training of UN MAPS. We achieved the promotion of all 12 students in our lab to intermediate OSM Mappers. Based on the knowledge learned, we also created a graphic recording about JOSM Validation and published it on GitHub. In April, we participated in "International Humanitarian Mapathon 2024" and competed with universities and organizations from more than 5 countries including USC and UCLA. In June, we held Wheelmap's Mapathon to learn how we can use maps to contribute to society. We are also working on the translation of "Open Mapping towards Sustainable Development Goals" as part of our year-round activities to promote the activities of YouthMappers. We are also planning to participate in other Mapathons and Hakkathons in the future.
 
 Throughout our year-long activities, we have been faced with the challenge that there is a large gap in understanding depending on the amount of knowledge and language level of individuals. As newcomers to the geospatial information industry, we had little prerequisite knowledge and were unfamiliar with tools such as the QGIS manual, GDAL, and JOSM, which are commonplace for advanced mappers. The most difficult thing for us Japanese was that the manuals for understanding these tools were mostly in English, and we found ourselves in a situation where we could not understand them even if we read them because of their many technical terms. It was not easy to keep the manuals close at hand and look at the actual screens and operate them at the same time.
@@ -40,8 +38,6 @@ Twelve students from Furuhashi Lab participated in the "OSM Data Validation Trai
 Using the example of the graphic recording at JOSM Validation, I will introduce the usefulness of visualization in Japanese university education.
 
 ## 和訳
-タイトル: 日本の大学教育におけるFOSS4Gツールの多言語化とオープンナレッジ・プラットフォームの構築
-
 古橋研究室は「参加型地図と社会貢献」をテーマに、YouthMappersAGUとしてOSMのマッピングやマッパソンに取り組んでいます。2024年の活動を振り返って具体的な活動について紹介します。3月から6月の3カ月間、UN MAPSのOSM Validation Traningに参加しました。研究室に所属する12名の学生全員のOSMの中級マッパー昇格を達成しました。また、学んだ知識をもとにJOSM Validationについてのグラレコを作成してGitHubに公開しています。また、4月には、International Humanitarian Mapathon 2024に参加し、USCやUCLAなど世界5カ国の大学・団体と競い合いました。6月にはWheelmapのMapathonを開催して、地図を用いてどのように社会に貢献できるか日々学んでいます。そして、通年の作業として"Open Mapping towards Sustainable Development Goals" の和訳作業を行い、YouthMappersの活動を広める活動をしています。この後もMapathonへの参加やHakkathonの開催を企画しています。
 
 1年間の活動を通して、個人の知識量や言語レベルによって理解の差が大きくなってしまうことが課題となっていました。地理空間情報の業界に飛び込んできたばかりの私たちは、前提知識が少なく、QGISやGDAL、JOSMといった上級者のマッパーにとっては当たり前のツールにも不慣れでした。日本人の私たちが最も苦労したことが、それらのツールを理解するためのマニュアルがほとんど英語であり、さらに専門用語が多いため読んでも分からない状態に陥ってしまったことでした。マニュアルを手元に置きつつ、実際の画面を見て同時に操作することも、簡単ではありませんでした。
@@ -72,9 +68,9 @@ JOSM (Java OpenStreetMap Editor)は、上級者向けのOSMのデスクトップ
 JOSM Validationのグラレコを例にして、日本の大学教育におけるビジュアライゼーションの有用性について紹介します。
 
 
-# description
+## description
 
-## QGIS translation manual
+### QGIS translation manual
 
 The "QGIS Documentation Japanese Translation Manual 2024" is an in-depth guide created by the Furuhashi Lab to support students and participants in translating QGIS Desktop user guides into Japanese using Transifex. QGIS, a widely used open-source GIS software, often has documentation primarily available in English, creating a language barrier for Japanese users. This manual addresses these challenges by providing step-by-step instructions on how to use Transifex, a translation management platform commonly adopted by open-source projects.
 
@@ -90,7 +86,7 @@ Overall, this project aims to bridge the language gap in geospatial technology b
 
 For a complete guide and more details, please visit the page [here](https://github.com/furuhashilab/foss4gi18nJP/wiki/QGIS-Documentation-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%BF%BB%E8%A8%B3%E4%BD%9C%E6%A5%AD%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-2024).
 
-## GDAL translation
+### GDAL translation
 
 GDAL (Geospatial Data Abstraction Library) is a versatile library and command-line tool used for converting and manipulating raster and vector data. It supports a wide range of geospatial data formats and is essential for data conversion, processing, and analysis in various GIS applications. The translation rules for GDAL documentation are aligned with those established for QGIS, ensuring consistency across these geospatial tools. GDAL translations are managed using po files on GitHub, facilitating collaborative updates and refinements. This approach allows contributors to work together efficiently, ensuring the documentation remains accurate and relevant.
 
@@ -98,7 +94,7 @@ By managing translations on GitHub, the GDAL community leverages version control
 
 ---
 
-## The Usefulness of Visualization in University Education - Using the JOSM Validation Hackathon as an Example
+### The Usefulness of Visualization in University Education - Using the JOSM Validation Hackathon as an Example
 
 Furuhashi Lab uses Graphic recording as a visualization method to reliably communicate information in a way that is easy for anyone to understand. Graphic recording is “a method of summarizing the content of a meeting or presentation using graphics such as pictures and figures ([OPTAGE for Business, 2023](https://optage.co.jp/business/contents/article/20231115.html)"). Since the main points and conclusions are visualized, it has the advantage of being easier to understand and more memorable than text-only information and is useful for stimulating discussion and reviewing. Above all, since the information is recorded in pictures rather than text, anyone in the world can intuitively understand the content. At the Furuhashi Laboratory, we actively use the system to summarize the content of weekly classes and to keep a record of individual work. One experience in which Graphic Recording was particularly helpful in understanding the content was the “UN Mappers Validation JOSM Follow-up Hackathon” initiative in June.
 
