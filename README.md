@@ -109,3 +109,6 @@ There was an obstacle in making the graphic recording public. The resolution of 
 Although the students rarely reviewed lectures other than the items for which they were responsible, they were able to gain some understanding of how to do JOSM Validation by looking at a series of graphic recordings created by each team. As a result, all 12 students passed the JOSM Validation verification test provided by UN Maps. This result, which could not have been achieved by lectures in English alone, was made possible by the fact that graphic recording helped the students learn by extracting and organizing the necessary information.
 
 This experience shows that graphic recording is a useful visualization tool in Japanese university education for understanding content explained in languages other than Japanese and in fields outside one's own expertise.
+
+## Poster
+[FOSS4G_Shiori,Aki_presentation_v2.pdf](https://github.com/user-attachments/files/18098593/FOSS4G_Shiori.Aki_presentation_v2.pdf)
