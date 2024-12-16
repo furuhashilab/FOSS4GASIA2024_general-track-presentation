@@ -125,4 +125,4 @@ This experience shows that graphic recording is a useful visualization tool in J
 ![QR_318908](https://github.com/user-attachments/assets/e56811b2-130b-44e2-a811-c1198a547f9a)
 
 ## References
-https://github.com/furuhashilab/FOSS4GASIA2024_general-track-presentation/issues/6
+[https://github.com/furuhashilab/FOSS4GASIA2024_general-track-presentation/issues/6](https://github.com/furuhashilab/FOSS4GASIA2024_general-track-presentation/issues/6)
