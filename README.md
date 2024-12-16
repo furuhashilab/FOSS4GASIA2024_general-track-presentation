@@ -103,6 +103,8 @@ Furuhashi Lab. participated in the “OSM Data Validation Training Proposal” o
 After all lectures were finished, in June, we held a “UN Mappers Validation JOSM Follow-up Hackathon” to summarize the lectures in our lab, with the goal of summarizing how to use JOSM for validation purposes in graphic recording, and publishing the completed graphic recording on Git Hub. The goal was to publish the completed graphic recording on Git Hub. The 12 students were divided into 4 teams: Installation, JOSM Basic Operation, Validation Basics, and Validation Application. The materials used for reference were the UN Mappers online lecture archive videos and the JOSM Validation document stored in the [UN Maps Learning Hub](https://mappers.un.org/learning/).
 
 First, in the installation section, we summarized the JOSM operation check and the linkage with Tasking Manager. The completed graphic recording is [here](https://github.com/furuhashilab/V-F_UN-Validation/issues/5). Next, in the JOSM Basic Operations section, we focused on the basic operations of JOSM, how to use the Building Plugin, and how to modify the shape of buildings (right-angled and snapped nodes) to create graphic recording. The completed graphic recording is [here](https://github.com/furuhashilab/Drone_UN-Validation/blob/main/README.md). In the Validation Basics section, we summarized the JOSM validator tool (validation) and the TODO plugin. The completed graphic recording is [here](https://github.com/furuhashilab/Design-UN-validation/issues/1). Finally, in the Validation application section, we summarized two methods: how to use Osmose and how to validate with JOSM using the Overpass layer. The completed graphic recording is [here](https://github.com/furuhashilab/Youth_JOSM-Validation).
+![JOSMドローン部](https://github.com/user-attachments/assets/e3f8cc12-4f1a-40b8-a5c4-422dee16f853)
+
 
 There was an obstacle in making the graphic recording public. The resolution of the first graphic recording was low, and except for the JOSM Basic Operations section, the graphic recordings of the three teams were not fully understandable because they were just copies of the lectures. For the students whose native language is Japanese, this may have been due to the fact that the lecture was given in English. Therefore, the lectures were redrawn, and the corrected versions are now available to the world (the aforementioned URL is also the corrected graphic recording version).
 
@@ -112,3 +114,6 @@ This experience shows that graphic recording is a useful visualization tool in J
 
 ## Poster
 [FOSS4G_Shiori,Aki_presentation_v2.pdf](https://github.com/user-attachments/files/18098593/FOSS4G_Shiori.Aki_presentation_v2.pdf)
+
+## Outputs
+![QR_318908](https://github.com/user-attachments/assets/e56811b2-130b-44e2-a811-c1198a547f9a)
