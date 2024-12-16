@@ -9,6 +9,10 @@
 * SDGsの翻訳
 * JOSMのバリデーション
 
+## Our Outputs
+![QR_318908](https://github.com/user-attachments/assets/3484a6bd-90e3-4f17-b4fc-d3225ac57265)
+
+
 ## Abstract
 Furuhashi Lab has been working on OSM mapping and Mapathon as YouthMappers AGU under the theme of "Participatory Mapping and Social Contribution". Here is a look back at our specific activities in 2024. Three months from March to June, we participated in the OSM Validation training of UN MAPS. We achieved the promotion of all 12 students in our lab to intermediate OSM Mappers. Based on the knowledge learned, we also created a graphic recording about JOSM Validation and published it on GitHub. In April, we participated in "International Humanitarian Mapathon 2024" and competed with universities and organizations from more than 5 countries including USC and UCLA. In June, we held Wheelmap's Mapathon to learn how we can use maps to contribute to society. We are also working on the translation of "Open Mapping towards Sustainable Development Goals" as part of our year-round activities to promote the activities of YouthMappers. We are also planning to participate in other Mapathons and Hakkathons in the future.
 
